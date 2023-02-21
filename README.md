@@ -1,3 +1,3 @@
 # learning-git
 for learning git
-it is for leaning purpose
+it is for leaning
